@@ -1,23 +1,23 @@
 PHISH-MAILER
 
-$ pkg update && pkg upgrade
+pkg update && pkg upgrade
 
-$ pkg install git
+pkg install git
 
-$ pkg install python
+pkg install python
 
-$ pkg install python2
+pkg install python2
 
-$ pip2 install requests
+pip2 install requests
 
-$ pip2 install mechanize
+pip2 install mechanize
 
-$ pip2 install bs4
+pip2 install bs4
 
-$ git clone https://www.github.com/BiZken/PhishMailer.git
+git clone https://www.github.com/BiZken/PhishMailer.git
 
-$ cd PhishMailer
+cd PhishMailer
 
-$ chmod +x *
+chmod +x *
 
-$ python3 PhishMailer.py
+python3 PhishMailer.py
