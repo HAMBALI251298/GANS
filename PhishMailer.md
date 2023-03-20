@@ -1,23 +1,3 @@
-Skip to content
-BiZken
-/
-PhishMailer
-Public
-Code
-Issues
-29
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-PhishMailer/PhishMailer.py
-@BiZken
-BiZken fixed eriŕor
- 2 contributors
-@BiZken@Deadpool2000
-190 lines (146 sloc)  5.56 KB
 #!/usr/bin/env python3
 #Created By BiZken
 
