@@ -20,7 +20,7 @@ cd PhishMailer
 
 chmod +x *
 
-python3 PhishMailer.py```
+python3 PhishMailer.py
 
 
 ![Logo-Makr-12hrnk.png](https://i.postimg.cc/SR4vXjjq/Logo-Makr-12hrnk.png)
