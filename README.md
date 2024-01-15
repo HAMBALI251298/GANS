@@ -1,4 +1,4 @@
-```PHISH-MAILER
+PHISH-MAILER
 
 pkg update && pkg upgrade
 
